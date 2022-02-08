@@ -2,6 +2,7 @@
 The most basic version of AeroCL <br />
 if you want to fork AeroCL this is the repo to go <br />
 <br />
+also very lightweight <br />
 <br />
 ## Commands 
 <br />
