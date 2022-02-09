@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nowy\\Desktop\\AeroCL-Basic\\AeroCL-Basic.csproj": {}
+    "D:\\VS Projects\\AeroCL-Basic\\AeroCL-Basic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nowy\\Desktop\\AeroCL-Basic\\AeroCL-Basic.csproj": {
+    "D:\\VS Projects\\AeroCL-Basic\\AeroCL-Basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nowy\\Desktop\\AeroCL-Basic\\AeroCL-Basic.csproj",
+        "projectUniqueName": "D:\\VS Projects\\AeroCL-Basic\\AeroCL-Basic.csproj",
         "projectName": "AeroCL-Basic",
-        "projectPath": "C:\\Users\\nowy\\Desktop\\AeroCL-Basic\\AeroCL-Basic.csproj",
+        "projectPath": "D:\\VS Projects\\AeroCL-Basic\\AeroCL-Basic.csproj",
         "packagesPath": "C:\\Users\\nowy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nowy\\Desktop\\AeroCL-Basic\\obj\\",
+        "outputPath": "D:\\VS Projects\\AeroCL-Basic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nowy\\AppData\\Roaming\\NuGet\\NuGet.Config",

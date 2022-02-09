@@ -3,7 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <ApplicationIcon>acl_icon_BMf_icon.ico</ApplicationIcon>
     <AssemblyName>AeroCL-Basic</AssemblyName>
     <RootNamespace>AeroCL-Basic</RootNamespace>
   </PropertyGroup>
